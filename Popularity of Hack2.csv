@@ -1,0 +1,15 @@
+id;location;age;gender;is_senior
+0;USA;24;M;False
+1;USA;31;F;True
+2;USA;29;F;False
+3;USA;33;M;False
+4;USA;36;F;True
+5;India;41;F;True
+6;India;44;F;True
+7;India;28;F;False
+8;India;24;M;False
+9;UK;18;M;False
+10;UK;21;M;False
+11;UK;23;F;True
+12;Switzerland;30;F;True
+13;Switzerland;31;M;True
